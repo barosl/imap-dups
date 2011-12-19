@@ -1,6 +1,8 @@
 # -*- coding: latin-1 -*-
 
-# This code was originally in the PloneMailList, a GPL'd software.
+# This code was originally in PloneMailList, a GPL'd software.
+# http://svn.plone.org/svn/collective/mxmImapClient/trunk/imapUTF7.py
+# http://bugs.python.org/issue5305
 
 """
 Imap folder names are encoded using a special version of utf-7 as defined in RFC 
